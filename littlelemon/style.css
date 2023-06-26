@@ -1,0 +1,22 @@
+header img{
+    margin-left: 700px;
+    height: 150px;
+}
+header{
+    display: block;
+    height: 150px;
+}
+
+.text-holder{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(98, 233, 188);
+    height: 25px;
+}
+
+.text-holder li{
+    list-style: none;
+}
+.text-holder a{
+    color:azure;
+}
